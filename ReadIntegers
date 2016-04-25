@@ -1,0 +1,10 @@
+import java.io.*;
+public class ReadIntegers{
+	public static viod main(String[] args)throws IOException{
+	BufferedReader h=new BufferedReader(new InputStreamReader(System.in));
+	System.out.println("Enter 2 intergers on separate lines");
+	int num1=interger.parseInt(h.readLine());
+	int num2=interger.parseInt(h.readLine());
+	System.out.println("Sum="+(num1+num2));
+	} 
+}

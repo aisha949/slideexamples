@@ -1,0 +1,9 @@
+student1 22 43 737 663
+student2 21 45 77 25
+student3 29 45 76 27
+student4 23 45 78 28
+student5 28 45 72 29
+student6 27 45 71 22
+student7 24 45 72 232
+student8 23 45 79 234
+
